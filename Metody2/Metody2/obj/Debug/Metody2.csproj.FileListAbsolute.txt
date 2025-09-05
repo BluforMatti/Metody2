@@ -1,0 +1,16 @@
+C:\Users\xstraka\source\repos\Metody2\bin\Debug\Metody2.exe.config
+C:\Users\xstraka\source\repos\Metody2\bin\Debug\Metody2.exe
+C:\Users\xstraka\source\repos\Metody2\bin\Debug\Metody2.pdb
+C:\Users\xstraka\source\repos\Metody2\obj\Debug\Metody2.csproj.AssemblyReference.cache
+C:\Users\xstraka\source\repos\Metody2\obj\Debug\Metody2.csproj.CoreCompileInputs.cache
+C:\Users\xstraka\source\repos\Metody2\obj\Debug\Metody2.exe
+C:\Users\xstraka\source\repos\Metody2\obj\Debug\Metody2.pdb
+C:\Users\xstraka\source\repos\Metody2\obj\Debug\Metody2.exe.config
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\bin\Debug\Metody2.exe.config
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\bin\Debug\Metody2.exe
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\bin\Debug\Metody2.pdb
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\obj\Debug\Metody2.csproj.AssemblyReference.cache
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\obj\Debug\Metody2.exe.config
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\obj\Debug\Metody2.csproj.CoreCompileInputs.cache
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\obj\Debug\Metody2.exe
+C:\Users\xstraka\source\repos\BluforMatti\Metody2\Metody2\obj\Debug\Metody2.pdb
